@@ -6,12 +6,12 @@
 #### Get all items
 
 ```http
-  GET /api/allvehical
+  GET http://localhost:5000/api/allvehical
 ```
 #### Post data
 
 ```http
-  GET /api/slots
+  POST http://localhost:5000/api/slots
 ```
 
 
