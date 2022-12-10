@@ -27,7 +27,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Parking-Ticket-generating-application
 ```
 
 Install dependencies
