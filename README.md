@@ -21,7 +21,7 @@
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone git@github.com:pranjal6314/Parking-Ticket-generating-application.git
 ```
 
 Go to the project directory
